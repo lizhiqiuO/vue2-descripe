@@ -1,0 +1,26 @@
+{
+  "name": "vue2-descripe",
+  "version": "1.0.0",
+  "description": "vue2 源码解读",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhiqiuO/vue2-descripe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhiqiuO/vue2-descripe/issues"
+  },
+  "homepage": "https://github.com/lizhiqiuO/vue2-descripe#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.2",
+    "@babel/preset-env": "^7.15.2",
+    "rollup": "^2.56.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-serve": "^1.0.1"
+  }
+}
